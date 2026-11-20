@@ -1,8 +1,8 @@
 {
- "versionCode": 2,
- "versionName": "1.1.0",
- "apkUrl": "https://raw.githubusercontent.com/aivisimus/english-ai-offline-downloads/main/english-ai-offline-1.1.0.apk",
- "sha256": "30ae3d119d4b2ac774845a2faaa3643d5b6895c65f52a691c0b1648585ee844c",
- "sizeBytes": 220812,
- "notes": "Versão 1.1.0:\n• Atualização automática: ao abrir com internet, o app avisa quando há versão nova.\n• Chave de acesso por aparelho, com validade (para testadores).\n• Ajustes → \"Procurar atualização agora\" e \"Trocar chave de acesso\"."
+ "versionCode": 4,
+ "versionName": "2.0.0",
+ "apkUrl": "https://raw.githubusercontent.com/aivisimus/english-ai-offline-downloads/main/english-ai-offline-2.0.0.apk",
+ "sha256": "7bfb3be89600f8d33b9b5fc47f3825cd9aa901735f598744260c774da9f74fde",
+ "sizeBytes": 12012399,
+ "notes": "Versão 2.0.0 — versão de teste completo:\n• VOZ NATURAL EMBUTIDA: cerca de 2.400 frases gravadas com voz neural natural (palavras, exemplos, diálogos com duas vozes, leituras, gramática e exercícios). Funciona sem internet e sem configurar nada no celular.\n• Tela inicial nova: cabeçalho colorido com a meta do dia, números de sequência/XP/revisões, botão grande \"Seu próximo passo\", palavra do dia com figura e módulos em blocos coloridos.\n• Desafio do dia (10 questões, +30 XP) e Desafio da semana (conversa + leitura, +60 XP).\n• Vocabulário ampliado para 740 palavras, 158 com figura, e exercícios com figuras (\"What is this?\").\n• Exercício de falar: o app ouve você e confere a frase.\n• 4 conversas novas (amigo, entrevista de emprego, ajuda técnica, farmácia) e 5 leituras novas.\n• A voz do celular continua sendo usada nas frases que você mesmo escreve. Em Ajustes → Voz dá para ligar/desligar a voz natural.\n\nVersão 1.2.0:\n• Novo assistente de voz (Ajustes → Escolher a voz): ouça e escolha a voz em inglês mais natural do seu celular.\n• O app agora prefere a voz do Google, que é melhor em inglês.\n• Teste do microfone dentro do app."
 }
